@@ -35,6 +35,18 @@ This automation streamlines lead capture and notification, helping businesses or
 ## Project Objective
 To demonstrate how no-code automation can simplify lead management, reduce repetitive administrative tasks, and improve response times for real estate businesses.
 
+### 1. Zapier Workflow
+This shows how the application connects to automate lead capture.
+![Zapier Workflow](zapier_workflow.png)
+
+### 2. Google Sheet Results
+This demonstrate how property enquiries are stored automatically.
+![Google Sheet Results](spreadsheet.png)
+
+### 3. Sales Representative Notification
+This demonstrate the email notification sent to the sales representative.
+![Sales Representative Notification](sales_rep_mail.png)
+
 ## Author
 **Adeyemiblessingolarewaju**
 
